@@ -1,4 +1,4 @@
-# 🧊 Archaeology Archive – Preservation Pod
+# 🧊 Archeology Archive – Preservation Pod
 
 A portable, climate-controlled system designed to preserve archaeological artifacts **and their context** from dig site to lab.
 
